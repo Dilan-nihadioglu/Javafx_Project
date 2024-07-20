@@ -1,0 +1,8 @@
+Salaried Employee,Dilan,Nihadioglu,111-111-111,10000,payment:10000.0
+Hourly Employee,Ramazan,Tetik,222-222-222,500,30,payment:15000.0
+Commission Employee,Sezen,Avcı,333-333-333,12000,0.5,payment:6000.0
+Base Plus Commission Employee,Kenan,Isık,444-444-444,5000,0.5,500,payment:3000.0
+Salaried Employee,Ali,Uslu,555-555-555,5000,payment:5000.0
+Hourly Employee,Ela,Cimen,666-666-666,400,30,payment:12000.0
+Commission Employee,Esin,Karaca,777-777-777,3000,0.6,payment:1800.0
+Base Plus Commission Employee,Eylül,Gülen,888-888-888,2000,0.6,3000,payment:4200.0
